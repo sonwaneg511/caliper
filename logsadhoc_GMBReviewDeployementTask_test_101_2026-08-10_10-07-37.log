@@ -1,0 +1,13 @@
+job started
+no of clients : 1
+processing for client : Fabric
+Fetching Reviews
+processing for client : Fabric
+GMB setting data =2000-01-01T00:00:00Z
+GMB setting data after parsing =2000-01-01T00:00:00Z
+GMB setting data after minus 7 days = 1999-12-25T00:00:00Z
+GMB locations size : 0
+Processing Auto Response
+Reviews after : 2000-01-01 00:00:00.0
+Auto response records updated - 0
+job end
